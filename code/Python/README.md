@@ -1,4 +1,4 @@
-# IPLSentimentAlalysis
+# IPL Sentiment Analysis
 
 How to run get tweets?
 
